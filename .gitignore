@@ -1,0 +1,8 @@
+.DS_Store
+._*
+.Trashes
+
+*.userprefs
+*.usertasks
+*.pidb
+*.resources
